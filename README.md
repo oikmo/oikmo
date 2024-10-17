@@ -11,4 +11,3 @@
 
 ## What I am working on!!
 - [not_found](https://github.com/oikmo/not_found)
-<img src="https://github.com/user-attachments/assets/9a2ae9f6-784f-4a9c-baa8-cade3f14cea3" width="450px">
