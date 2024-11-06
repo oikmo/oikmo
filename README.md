@@ -10,4 +10,4 @@
 - I make <b>.NET</b> apps
 
 ## What I am working on!!
-- [not_found](https://github.com/oikmo/not_found)
+- [not_found](https://git.gay/oikmo/not_found)
